@@ -1,4 +1,6 @@
-Program-1 // – Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it.
+Link for the video: https://drive.google.com/file/d/1GDZUTgS6VB6fGBFIEzZHeIqiUo5ATrZz/view?usp=sharing
+
+**Program-1 // – Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it.
 
 Here in this program first the user has to enter the string with the space between each character as we used split function, all the letters will be then converted into list of characters following that, two characters were deleted using the index of the characters and then the elements in the list were reveresed and joined using the join function and finally the output is printed. // - Take two numbers from user and perform at least 4 arithmetic operations on them. In this programe usesr is made to enter two values on which arthematic operations(Addition, substracting, multiplication and division) were performed and the final output is printed.
 
